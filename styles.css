@@ -1,0 +1,38 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    border: 1px solid black;
+    background-color: green;
+}
+
+.quem-somos {
+    border: 1px solid black;
+    background-color: #8181f7;
+    color: aliceblue;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+
+.servicos {
+    border: 1px solid black;
+    background-color: powderblue;
+}
+
+.fotos {
+    width: 90%;
+    border: 2px solid black;
+}
+
+.bg-footer {
+    background-color: black;
+    color: aliceblue;
+}
